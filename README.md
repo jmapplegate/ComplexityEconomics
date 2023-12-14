@@ -15,4 +15,4 @@ This notebook implements the Monetary Circuit model from Keen 2010 discussed in 
 This notebook presents a model of electricity market auctions as presented in your Market Structures lecture.
 
 #### Banking Elasticity and Discipline
-The notebook presents basic banking discipline and elasticity dynamics.
+This notebook presents basic banking discipline and elasticity dynamics.
